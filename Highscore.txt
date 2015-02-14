@@ -1,0 +1,30 @@
+NewPlayer Sat Oct 25 12:52:06 2014
+1500
+NewPlayer Sat Oct 25 13:48:40 2014
+400
+NewPlayer Sat Oct 25 13:56:10 2014
+0
+NewPlayer Sat Oct 25 13:58:02 2014
+0
+NewPlayer Sat Oct 25 14:05:03 2014
+0
+NewPlayer Sat Oct 25 14:06:03 2014
+0
+NewPlayer Sat Oct 25 14:10:10 2014
+400
+NewPlayer Sat Oct 25 14:12:08 2014
+800
+NewPlayer Sat Oct 25 15:05:21 2014
+200
+NewPlayer Sat Oct 25 18:51:58 2014
+10900
+NewPlayer Tue Oct 28 16:11:17 2014
+0
+NewPlayer Wed Nov 12 11:43:56 2014
+12200
+NewPlayer Wed Nov 12 11:54:36 2014
+0
+NewPlayer Sat Dec 13 02:44:03 2014
+0
+NewPlayer Sat Dec 13 04:45:27 2014
+0
